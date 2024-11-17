@@ -1,3 +1,17 @@
+# Programmers:  Jordi Korede and John
+# Course:  CS151, Dr.Yalew
+# Due Date: 11/14/24
+# Lab Assignment: 9
+# Problem Statement: Organizing a dinner party with assigned seats.
+# Data In: The filename that the user inputs
+# Data Out: The names of everyone on the inputted file with their seat number and table number
+# Credits: Class
+# Input Files: We need either yalew,nweke, or isaacman in order for this code to work
+
+
+# Purpose:  Reads the file to list
+# Parameters: The file name
+# Return: The data in the file
 def read_file_to_list(filename):
     data = []
     try:
@@ -10,12 +24,16 @@ def read_file_to_list(filename):
         print("Error: File Does Not Exist")
     return data
 
-
+# Purpose: Gets the number of tables needed
+# Parameters: The guest amount
+# Return: The number of tables
 def get_num_tables(guest_amount):
     num_tables = int(len(guest_amount) / 5)
     return num_tables
 
-
+# Purpose: Makes the tables
+# Parameters: Tables and guests
+# Return: The table with everyone's seat
 def make_tables(tables, guests):
     current_table = 1
     current_seat = 1
@@ -31,7 +49,9 @@ def make_tables(tables, guests):
             index_checker += 5
             current_table += 1
 
-
+# Purpose: Gets the user input
+# Parameters: None
+# Return: The file name
 def get_user_input():
     result = input("Please enter the name of the file that contains the names for the party.\n"
                    "(Your options are either Nweke, Yalew, or Isaacman | Please DO NOT add '.txt' to your input) ")
@@ -44,7 +64,9 @@ def get_user_input():
         result = result.lower()
     return result + ".txt"
 
-
+# Purpose: Runs the program
+# Parameters: None
+# Return: None
 def main():
     print("Hello! We are organizing a party for students currently taking Computer Science 151.\n"
           "We're using this program to seat the students at their respective tables. Why not take a look?")
