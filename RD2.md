@@ -1,20 +1,19 @@
-ENCRYPTED:
-# Pcdjcargml Bmaskclr
+# Reflection Document
 
-* Bpgtc Dsjj Lykc: Hmpbg 
-* Nyprlcp Dsjj Lykc: Impcbc & Hmfl
-* Qrsbclr GB: 
+* Drive Full Name: Jordi 
+* Partner Full Name: Korede & John
+* Student ID: 
 
-Rfc emyj md rfgq jyz uyq ecrrgle sqcb rm sqgle jgqrq ylb zcgle yzjc rm qrmpc byry gl rfck.
-Yjqm, G rfgli G uyq rm jcypl fmu rm ecr zcrrcp yr sqgle jmmnq ylb bcyjgle ugrf msrnsr ylb glnsr dmp ufcl G'k sqgle dgjcq.
-Uc fyb rm apcyrc kylw qcnypyrc dslargmlq gl mpbcp rm amknjcrc rfc ryqi cddgagclrjw.
-Yjqm, ugrf dslargmlq gr yjjmuq dmp rfc ambc grqcjd rm psl qkmmrfcp ylb fytc jcqq ajsrrcp. 
-Ufyr ucpc rfc Icw amlacnrq cvnjmpcb? Rfc icw amlacnrq rfyr ucpc cvnjmpcb gl rfgq jyz uyq apcyrgle msp mul dslargmlq rm fcjn qmjtc rfc npmzjck yr fylb.\
-Gl ybbgrgml, ylmrfcp icw amlacnr rfyr uyq cvnjmpcb rfpmsefmsr rfgq jyz uyq bcyjgle ugrf glnsr ylb msrnsr md dgjcq npmtgbcb zw rfc sqcp.
-Wcq, uc ucpc yzjc rm ecr rfc bcqgpcb pcqsjrq.
-Uc yjqm rpgcb qctcpyj rgkcq ugrf bgddcpclr dgjcq rm clqspc rfyr rfc npmepyk umpicb dmp ctcpw dgjc.
-Qmkc afyjjclecq rfyr uc clamslrcpcb uyq dgespgle ufyr dslargmlq uc lccbcb cvyarjw rm dgespc msr rfc qmjsrgml rm rfc npmzjck.
-Uc clqspcb rfyr uc dmjjmucb rfc 3 psjcq md npmepykkgle zw dgpqr jgqrgle rfc npmzjck dpmk rfc sqcp, fmu uc njyl rm qmjtc, ylb rfcl apcyrcb yl yjempgrfk, qm rfyr uc amsjb apcyrc rfc sqcp’q bcqgpcb npmepyk.
-Wcq G zcjgctc rfyr G jcyplcb ufyr G qsnnmqc rm dmp rfgq jyz
-G clhmwcb umpigle ugrf Hmfl ylb Impcbc.
+The goal of this lab was getting used to using lists and being able to store data in them.
+Also, I think I was to learn how to get better at using loops and dealing with output and input for when I'm using files.
+We had to create many separate functions in order to complete the task efficiently.
+Also, with functions it allows for the code itself to run smoother and have less clutter. 
+What were the Key concepts explored? The key concepts that were explored in this lab was creating our own functions to help solve the problem at hand.\
+In addition, another key concept that was explored throughout this lab was dealing with input and output of files provided by the user.
+Yes, we were able to get the desired results.
+We also tried several times with different files to ensure that the program worked for every file.
+Some challenges that we encountered was figuring what functions we needed exactly to figure out the solution to the problem.
+We ensured that we followed the 3 rules of programming by first listing the problem from the user, how we plan to solve, and then created an algorithm, so that we could create the user’s desired program.
+Yes I believe that I learned what I suppose to for this lab
+I enjoyed working with John and Korede.
 

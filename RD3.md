@@ -1,18 +1,17 @@
-ENCRYPTED:
-# Vijpigxmsr Hsgyqirx
+# Reflection Document
 
-* Hvmzi Jypp Reqi: Nslr Ipilaerc
-* Tevxriv Jypp Reqi: 
-* Wxyhirx MH: 1934007
+* Drive Full Name: John Elehwany
+* Partner Full Name: 
+* Student ID: 1934007
 
-M irnscih pievrmrk e psx sj ria xlmrkw mr xlmw pef. Mr xlmw, jsvqexxmrk xefpiw tvszih xs fi e fmk
-xewo jvsq xlmw asvopseh, erh M irnscih xvcmrk xs avet qc lieh evsyrh mx. M leh xs viwsvx xs ywmrk wsqi
-ibxivrep viwsyvgiw pmoi Tcxlsr.svk erh Ksskpi jsv Ihygexmsr'w aiftekiw sr Tcxlsr xyxsvmepw xs yrhivwxerh e psx
-sj mx. Izirxyeppc, mx qehi wirwi, erh xlmw liptih qi syx alir xvcmrk xs hs erh lipt xli epksvmxlq erh xli 
-gshi amxl qc xieqqexiw.
+I enjoyed learning a lot of new things in this lab. In this, formatting tables proved to be a big
+task from this workload, and I enjoyed trying to wrap my head around it. I had to resort to using some
+external resources like Python.org and Google for Education's webpages on Python tutorials to understand a lot
+of it. Eventually, it made sense, and this helped me out when trying to do and help the algorithm and the 
+code with my teammates.
 
-M eq wexmwjmih amxl xli aec xlex xli gshi xyvrih syx livi. Viehmrk erh jsvqexxmrk ibxivrep jmpiw mw wsqixlmrk
-xlex mw ksmrk xs gsqi zivc lerhc alir hiepmrk amxl e psx sj pexiv wyfnigxw mr xlmw GW151 gsyvwi. Izivc pmxxpi fmx sj
-Tcxlsr xlex M pievr jiipw mqtsvxerx mr xlimv sar vmklx erh M'q lettc xs gsqqmx xs
-pievrmrk xlmw tvskveqqmrk perkyeki.
+I am satisfied with the way that the code turned out here. Reading and formatting external files is something
+that is going to come very handy when dealing with a lot of later subjects in this CS151 course. Every little bit of
+Python that I learn feels important in their own right and I'm happy to commit to
+learning this programming language.
 
