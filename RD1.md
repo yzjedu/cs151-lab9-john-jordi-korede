@@ -12,7 +12,9 @@ list, but the main hurtle came from the display part. The loops I had were a lit
 because they were nested in a way that I thought would cause the program to run correctly.
 However, the correct way was to actually reverse two of the loops so that the outer one was
 the inner one and vice versa. Another thing that I discovered was that while loops and for loops
-nested in each other can get a bit buggy, which caused me to redo a portion of the code.
+nested in each other can get a bit buggy. I had a problem where the program wouldn't finish. I
+had to figure out how to make the outer while loop into a for loop, and once I didn the
+program was able to finally.
 
 I think this lab was interesting because it subverted my expectations and forced me to approach
 the problem in a different way than I initially anticipated. It was an interesting learning experience.
